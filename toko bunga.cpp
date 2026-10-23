@@ -1,5 +1,3 @@
-//Tiara Vannesha M 23.12.2982
-//Sabrina Filda Fannisda 23.12.3005
 
 #include <iostream>
 #include <string>
